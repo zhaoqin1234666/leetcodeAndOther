@@ -10,7 +10,7 @@ import java.util.Scanner;
  *     输出：7
  *
  */
-public class HW_2_自己思考写 {
+public class HW_2_自己思考写_找出单独元素 {
 
 
     /**

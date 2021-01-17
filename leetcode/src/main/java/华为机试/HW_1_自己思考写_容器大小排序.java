@@ -5,7 +5,7 @@ import org.omg.CORBA.INTERNAL;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class HW_1_自己思考写 {
+public class HW_1_自己思考写_容器大小排序 {
 
 
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package 华为机试;
 
 import java.util.Scanner;
 
-public class HW_4_自己思考写 {
+public class HW_4_自己思考写_计算字符串最后一个单词的长度 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

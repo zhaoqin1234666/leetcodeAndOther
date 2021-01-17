@@ -7,7 +7,7 @@ package 华为机试;
  *     输出：7
  *
  */
-public class HW_3_自己思考写 {
+public class HW_3_自己思考写_求字符串出现数字和的最小值 {
 
 
     /**

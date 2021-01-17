@@ -3,7 +3,7 @@ package 华为机试;
 import java.util.Scanner;
 
 
-public class HW_5_自己思考写 {
+public class HW_5_自己思考写_字母的出现次数 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

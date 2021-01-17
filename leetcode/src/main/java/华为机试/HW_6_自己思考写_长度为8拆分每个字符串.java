@@ -3,7 +3,7 @@ package 华为机试;
 import java.util.Scanner;
 
 
-public class HW_6_自己思考写 {
+public class HW_6_自己思考写_长度为8拆分每个字符串 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
