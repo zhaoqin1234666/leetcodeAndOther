@@ -1,7 +1,10 @@
 package 华为机试;
-import java.util.*;
 
-public class Test {
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class HW_13_自己思考写_判断两个ip是否属于同一子网 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,7 +15,7 @@ public class Test {
             String[] aa=a.split("\\.");
             String[] bb=b.split("\\.");
             String[] cc=c.split("\\.");
-            int[] aaa=Arrays.stream(aa).mapToInt(Integer::parseInt).toArray();
+            int[] aaa= Arrays.stream(aa).mapToInt(Integer::parseInt).toArray();
             int[] bbb=Arrays.stream(bb).mapToInt(Integer::parseInt).toArray();
             int[] ccc=Arrays.stream(cc).mapToInt(Integer::parseInt).toArray();
             if(!isIp(bbb)||!isIp(ccc)||!isAd(aaa)){
