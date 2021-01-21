@@ -9,10 +9,6 @@ public class HW_17_自己思考写_算数表达式 {
         Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();
 
-        for (){
-
-        }
-
     }
 
 
