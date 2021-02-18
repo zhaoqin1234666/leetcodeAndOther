@@ -1,10 +1,8 @@
-package 华为机试;
-
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class Main {
+public class 多线程循环打印abab_thread_join {
 
     public static void main(String[] agrs) {
         AlternateDemo ad = new AlternateDemo();
